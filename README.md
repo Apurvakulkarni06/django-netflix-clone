@@ -1,2 +1,2 @@
 # django-netflix-clone
-Creating netflix clone using Django(python framework) and Tailwind CSS
+Creating Next js movies app with Tailwind CSS
