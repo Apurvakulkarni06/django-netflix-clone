@@ -1,2 +1,3 @@
-# Movies APP
-Creating Next js movies app with Tailwind CSS
+Next js Movie app
+
+creating movie app using NEXT JS and tailwind CSS

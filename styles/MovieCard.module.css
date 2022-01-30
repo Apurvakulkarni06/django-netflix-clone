@@ -1,0 +1,40 @@
+.container {
+  /* width: 250px; */
+  height: 200px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: center; */
+  /* border: 1px solid black; */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 5px;
+  word-wrap: break-word;
+}
+
+.header {
+  margin-top: 5px;
+}
+
+.header h2 {
+  color: rgb(128, 71, 59);
+  text-align: center;
+}
+.header h2:hover {
+  color: rgb(81, 81, 80);
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 700px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.overview {
+  text-align: center;
+}
+.title {
+  text-align: center;
+  color: rgb(128, 71, 59);
+}
